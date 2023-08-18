@@ -1,16 +1,22 @@
-"use strict";
-let a = 1 ,
-b = 2;
-console.log('3')
-let c = 350 ,
-d = 5,
-e = 13;
-console.log('19775');
-let f = 11.1111,
-g = 52;
-console.log('(52 F-32)*5/9=11.1111)');
-//  prompt('Как тебя зовут?');
-// alert('Привет, Глеб');
-let hight = 10,
-widht = 20;
-console.log('10*20=200');
+
+// let a = 1 ,
+// b = 2;
+// alert(a + b)
+
+
+// const c = 150,
+// e = 13;
+// const newPrise = c + (c * e) / 100;
+// alert(newPrise)
+
+// let cel = 32,
+// far = 89.6;
+// alert((cel * 9/5)+32)
+
+// let age = prompt('Введите имя');
+// alert(`Привет, ${age} !`)
+
+let a = 10,
+b= 10;
+h = a*b
+alert(h)
